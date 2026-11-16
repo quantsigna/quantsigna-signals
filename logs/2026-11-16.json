@@ -1,0 +1,9 @@
+{
+  "date": "17 November 2026",
+  "timestampNyc": "16 November 2026 16:00:15",
+  "mnq": "STAY FLAT",
+  "mgc": "STAY FLAT",
+  "vxm": "STAY FLAT",
+  "bottlenecks": "MNQ:NSTC(0.3σ) | MGC:200pr(3.23σ) | VXM:CVO(0.37σ)",
+  "sha256": "6f2c08a32c72ec4d578bfd4bcad5201e654760bc2a3d82fecccc452826bfa8bd"
+}
