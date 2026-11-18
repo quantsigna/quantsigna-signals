@@ -1,8 +1,8 @@
 {
-  "date": "19 November 2026",
+  "date": "18 November 2026",
   "timestampNyc": "18 November 2026 16:19:34",
   "embargoStatus": "SEALED_60_CALENDAR_DAYS",
   "publicRevealDate": "17 January 2027",
-  "sha256": "6cfc0300ac4d2d60b48aa560a713fd41b60c1a58185022d5c7e7d9dc0aaa5378",
+  "sha256": "76c5c04ec1bab40346865ef1215d5d59ca284c72a98e36d8d0d696cb46d3eaa5",
   "verificationNote": "Plaintext signals are embargoed for 60 calendar days for active subscribers. On 17 January 2027, plaintext fields (mnq, mgc, vxm, bottlenecks) are automatically revealed to verify sha256(date|timestampNyc|mnq|mgc|vxm|bottlenecks) against this 15:58 NYC Git commit."
 }
