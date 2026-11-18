@@ -1,9 +1,8 @@
 {
-  "date": "18 November 2026",
+  "date": "17 November 2026",
   "timestampNyc": "17 November 2026 16:01:38",
-  "mnq": "STAY FLAT",
-  "mgc": "STAY FLAT",
-  "vxm": "STAY FLAT",
-  "bottlenecks": "MNQ:NSTC(0.22σ) | MGC:200pr(3.23σ) | VXM:FVO(0.09σ)",
-  "sha256": "79168cbd598620bf81b5568072b2559bc3ef3db523a6164ce302434d8c1f8eb7"
+  "embargoStatus": "SEALED_60_CALENDAR_DAYS",
+  "publicRevealDate": "16 January 2027",
+  "sha256": "ec4cd07ba13c834d0ce4284e795365d2285d27b54b2a44d97c91217736fd34ed",
+  "verificationNote": "Plaintext signals are embargoed for 60 calendar days for active subscribers. On 16 January 2027, plaintext fields (mnq, mgc, vxm, bottlenecks) are automatically revealed to verify sha256(date|timestampNyc|mnq|mgc|vxm|bottlenecks) against this 15:58 NYC Git commit."
 }
