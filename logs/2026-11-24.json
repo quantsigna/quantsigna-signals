@@ -1,8 +1,0 @@
-{
-  "date": "24 November 2026",
-  "timestampNyc": "24 November 2026 13:10:20",
-  "lockStatus": "LOCKED_60_CALENDAR_DAYS",
-  "publicRevealDate": "23 January 2027",
-  "sha256": "d4ea5a2baddc553cdbbc3a419395d4802be1c4b06257f1e30282091cdfe84480",
-  "verificationNote": "Public plaintext signals are locked for 60 calendar days. On 23 January 2027, plaintext fields (mnq, mgc, vxm, bottlenecks) are automatically revealed to verify sha256(date|timestampNyc|mnq|mgc|vxm|bottlenecks) against this 15:58 NYC Git commit."
-}
